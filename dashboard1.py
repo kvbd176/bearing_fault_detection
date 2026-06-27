@@ -226,7 +226,6 @@ if uploaded_file is not None:
         """
         <div class='footer'>
         Bearing Fault Classification Dashboard<br>
-        Powered by xyz
         </div>
         """,
         unsafe_allow_html=True
